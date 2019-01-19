@@ -1,0 +1,5 @@
+name = input('Enter your name:')
+month = input('Enter the month you were born in :')
+print('Hi,' +name)
+print('Your name has length {0}'.format(len(name)))
+print('Your Happy birthday month is {0}'.format(month))
